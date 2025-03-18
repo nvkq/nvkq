@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nvkq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+مرحبًا بالجميع
+انا يزيد 
+وَنَحنُ سَبَقنا الناسَ مَجداً وَسُؤدَداً // تَليداً وَذِكراً نامِياً غَيرَ خامِلِ
+لَنا جَبَلٌ يَعلو الجِبالَ مُشَرَّفٌ // فَنَحنُ بِأَعلى فَرعِهِ المُتَطاوِلِ
 
-<!---
-nvkq/nvkq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+حسان بن ثابت
